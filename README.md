@@ -10,6 +10,9 @@
 <a href="https://www.linkedin.com/in/wingnincheung/" target="popup" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://angel.co/u/wing-nin-cheung-1" target="_blank">
+    <img align="left"  src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
+</a>
 <a href="mailto:ricky.wn.cheung@gmail.com" target="popup">
   <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
