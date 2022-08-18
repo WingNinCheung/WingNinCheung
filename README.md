@@ -1,9 +1,10 @@
 # Hi, I'm Ricky 👋
 
+
+
  - ✨  Frontend Software Developer
  - 📫  Former business analyst who pays high attention on details and business requirements
  - 💬  Fun fact: I love debugging. I could spend my whole weekend on finding why a paricular element does not behave as it should be.
-
 
 ## Connect with me:
 
@@ -18,6 +19,8 @@
 </a>
 <br>
 </br>
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" width="300" height="200"></img>
  
 ## Languages and Tools:
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
