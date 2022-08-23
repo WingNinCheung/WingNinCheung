@@ -17,7 +17,7 @@
 <a href="mailto:rickycheung.dev@gmail.com" target="popup">
   <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://rickycheung.herokuapp.com/">
+<a href="https://wingnincheung.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
 </a>
 
