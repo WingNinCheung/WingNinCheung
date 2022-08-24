@@ -46,12 +46,18 @@
 
 
 ## My Github Stats:
+ <p align="left" >
+<img width="368" alt="Screen Shot 2022-08-24 at 4 56 57 PM" src="https://user-images.githubusercontent.com/96600317/186544316-3525076e-45d3-4e99-9860-17d419051bad.png">
+
+
 
 
  <p align="left" >
- <a href="#"><img alt="Ricky's Top Languages" height="170px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingNinCheung&langs_count=6&count_private=true&show_icons=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117&exclude_repo=WingNinCheung.github.io" /></a>
+ <a href="#"><img alt="Ricky's Top Languages" height="170px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingNinCheung&langs_count=6&count_private=true&show_icons=true&layout=compact&hide_border=false&exclude_repo=WingNinCheung.github.io" /></a>
+ 
 
-<a href="#"><img  alt="Ricky's streak" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=WingNinCheung&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a>
+
+<a href="#"><img  alt="Ricky's streak" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=WingNinCheung&hide_border=false&stroke=0000" /> </a>
  </p>
 
 
