@@ -49,7 +49,7 @@
 
 
  <p align="left" >
- <a href="#"><img alt="Ricky's Top Languages" height="170px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingNinCheung&langs_count=6&count_private=true&show_icons=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117&exclude_repo=WingNinCheung.github.io" /></a>
+ <a href="#"><img alt="Ricky's Top Languages" height="170px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingNinCheung&langs_count=8&count_private=true&show_icons=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117&exclude_repo=WingNinCheung.github.io" /></a>
 
 <a href="#"><img  alt="Ricky's streak" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=WingNinCheung&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a>
  </p>
