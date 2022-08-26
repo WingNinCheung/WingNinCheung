@@ -56,9 +56,10 @@
  <p align="left" >
  
  <a href="#">
- <img alt="Ricky's Top Languages" height="170px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingNinCheung&langs_count=6&count_private=true&show_icons=true&layout=compact&hide_border=false&exclude_repo=WingNinCheung.github.io"></a>
-<a href="#"><img  alt="Ricky's streak" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=WingNinCheung&hide_border=false&stroke=0000&theme=flag-india"></a>
+ <img alt="Ricky's Top Languages" height="170px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingNinCheung&langs_count=6&count_private=true&show_icons=true&layout=compact&hide_border=false&exclude_repo=WingNinCheung.github.io&bg_color=0D1117&theme=react"></a>
+
 
  </p>
+ <a href="#"><img  alt="Ricky's streak" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=WingNinCheung&hide_border=false&stroke=0000&theme=tokyonight"></a>
 
 
