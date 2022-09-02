@@ -1,8 +1,9 @@
-# Hi, I'm Ricky 👋
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=2000&width=500&height=100&lines=👋+Hello!+I+am+Ricky+Cheung+👋"></img>
+</p>
 
 
-
- - ✨  Frontend Software Developer
+ - ✨  Software Developer based in the San Francisco Bay Area
  - 📫  Former business analyst who pays high attention on details and business requirements
  - 💬  Fun fact: I love debugging. I could spend my whole weekend on finding why a paricular element does not behave as it should be.
 
