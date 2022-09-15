@@ -5,7 +5,7 @@
 
  - ✨  Software Developer based in the San Francisco Bay Area
  - 📫  Former business analyst who pays high attention on details and business requirements
- - 💬  I love debugging. I enjoy spending my whole weekend on finding why a paricular element does not behave as it should be.
+ - 💬  I love debugging and reading code. 
 
 ## Connect with me:
 
