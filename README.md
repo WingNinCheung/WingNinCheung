@@ -5,7 +5,7 @@
 
  - ✨  Software Developer based in the San Francisco Bay Area
  - 📫  Former business analyst who pays high attention on details and business requirements
- - 💬  I love debugging and reading code. 
+ - 💬  I'm currently learning and practicing data structure and algorithms
 
 ## Connect with me:
 
