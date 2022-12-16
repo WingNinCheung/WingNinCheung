@@ -3,9 +3,9 @@
 </p>
 
 
- - ✨  Software Developer based in the San Francisco Bay Area
- - 📫  Former business analyst who pays high attention on details and business requirements
- - 💬  I'm currently learning and practicing data structure and algorithms
+ - ✨  Software Engineer based in the San Francisco Bay Area
+ - 📫  Former Business Analyst who pays high attention on details, numbers and business requirements
+ - 💬  Currently learning and practicing data structure and algorithms
 
 ## Connect with me:
 
