@@ -45,13 +45,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-
+<!-- 
 ## My Github Stats:
-
-<!---
- <p align="left" >
-<img width="368" alt="Screen Shot 2022-08-24 at 4 56 57 PM" src="https://user-images.githubusercontent.com/96600317/186544316-3525076e-45d3-4e99-9860-17d419051bad.png">
---->
 
 
  <p align="left" >
@@ -62,5 +57,5 @@
 
  </p>
  <a href="#"><img  alt="Ricky's streak" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=WingNinCheung&hide_border=false&stroke=0000&theme=tokyonight"></a>
-
+ -->
 
