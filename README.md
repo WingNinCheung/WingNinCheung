@@ -5,7 +5,7 @@
 <p align="center">
   <em>
     Hello, I am <a href="https://rickycheung.dev/">Ricky Cheung</a>.
-    <b>A Full-Stack Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> and a <b> passionate lifelong learner</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">&nbsp;&nbsp,<br>who is obsessed
+    <b>A Full-Stack Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> and <b> passionate lifelong learner</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">&nbsp;&nbsp,<br>who is obsessed
     with <b>software development</b> and always looking to simplfied complex ideas into actual products
   </em> 
   <br>
