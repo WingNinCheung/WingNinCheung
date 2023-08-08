@@ -6,7 +6,7 @@
   <em>
     Hello, I am <a href="https://rickycheung.dev/">Ricky Cheung</a>.
     <b>A Full-Stack Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> and <b> passionate lifelong learner</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">&nbsp;&nbsp,<br>who is obsessed
-    with <b>software development</b> and always looking to simplfied complex ideas into actual products
+    with <b>software development</b> and committed to pushing boundaries, simplifying complexities, and crafting innovative solutions that make a difference.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">“Make it work, make it right, make it fast.” – Kent Beck</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
