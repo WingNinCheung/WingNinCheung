@@ -5,7 +5,7 @@
 <p align="center">
   <em>
     Hello, I am <a href="https://rickycheung.dev/">Ricky Cheung</a>.
-    <b>A Full-Stack Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> and <b> passionate lifelong learner</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">&nbsp;&nbsp,<br>who is obsessed
+    <b>A Software Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> and <b> passionate lifelong learner</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">&nbsp;&nbsp,<br>who is obsessed
     with <b>software development</b> and committed to pushing boundaries, simplifying complexities, and crafting innovative solutions that make a difference.
   </em> 
   <br>
@@ -16,7 +16,7 @@
 <h2>About Me</h2>
 
 - I studied <b>Applied Mathematics</b> at San Jose State and became a Data Analyst for 2+ years.
-- I'm currently a <b>Full-Stack Engineer Intern</b> and <b>AI Trainer</b>.
+- I'm currently a <b>Software Engineer Intern</b>.
 - Call me: <b>He/Him/His</b> or <b>TeamWorker</b>😊 
 - I’m currently open for a new job opportunity: <a href="https://rickycheung.dev/images/Wing_Nin_Cheung_Resume.pdf">LINK TO MY RESUME</a>.</li>
 - I'm actively learning and practicing data structure and algorithms
