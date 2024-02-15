@@ -16,7 +16,7 @@
 <h2>About Me</h2>
 
 - I studied <b>Applied Mathematics</b> and became a Data Analyst for 2+ years.
-- I’m currently open for a new job opportunity: <a href="https://rickycheung.dev/images/Wing_Nin_Cheung_Resume.pdf">LINK TO MY RESUME</a>.</li>
+- I’m currently open for a new job opportunity<!--  <a href="https://rickycheung.dev/images/Wing_Nin_Cheung_Resume.pdf">LINK TO MY RESUME</a>.</li> -->
 - Call me: <b>He/Him/His</b> or <b>TeamWorker</b>😊 
 - I'm currently learning and practicing data structure and algorithms using Python.
 - I'm most proud of my <a href="https://github.com/WingNinCheung/Amasport">Amasport</a> and <a href="https://github.com/WingNinCheung/wecord-2.0">Wecord</a> project
