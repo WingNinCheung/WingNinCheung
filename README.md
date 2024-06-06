@@ -4,9 +4,9 @@
 
 <p align="center">
   <em>
-    Hello, I am <a href="https://rickycheung.dev/">Ricky Cheung</a>.
+    Hello, I am <a href="https://www.linkedin.com/in/wingnincheung/">Ricky Cheung</a>.
     <b>A Software Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> and <b> passionate lifelong learner</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">&nbsp;&nbsp,<br>who is obsessed
-    with <b>software development</b> and committed to pushing boundaries, simplifying complexities, and crafting innovative solutions that make a difference.
+    with software development and committed to pushing boundaries, simplifying complexities, and crafting innovative solutions that make a difference.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">“Make it work, make it right, make it fast.” – Kent Beck</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -16,18 +16,15 @@
 <h2>About Me</h2>
 
 - I studied <b>Applied Mathematics</b> and became a Data Analyst for 2+ years.
-- I’m currently open for a new job opportunity<!--  <a href="https://rickycheung.dev/images/Wing_Nin_Cheung_Resume.pdf">LINK TO MY RESUME</a>.</li> -->
+- I'm currently teaching JavaScript & computer science at App Academy
+- Hit me up with new opportunities <a href="https://rickycheung.dev/images/Wing_Nin_Cheung_Resume.pdf">LINK TO MY RESUME</a></li>
 - Call me: <b>He/Him/His</b> or <b>TeamWorker</b>😊 
-- I'm currently learning and practicing data structure and algorithms using Python.
-- I'm most proud of my <a href="https://github.com/WingNinCheung/Amasport">Amasport</a> and <a href="https://github.com/WingNinCheung/wecord-2.0">Wecord</a> project
+
 
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/wingnincheung/" target="popup" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://angel.co/u/wing-nin-cheung-1" target="_blank">
-    <img align="left"  src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
 </a>
 <a href="mailto:rickycheung.dev@gmail.com" target="popup">
   <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
