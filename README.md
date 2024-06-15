@@ -13,31 +13,34 @@
 </p>
 
 
-<h2>About Me</h2>
-
-- I studied <b>Applied Mathematics</b> and became a Data Analyst for 2+ years.
+## About Me
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" width="300" height="200"></img>
+- I started as a Business Analyst and my passion for building things led me to become a **Software Engineer**
 - I'm currently teaching JavaScript & computer science at App Academy
-- Hit me up with new opportunities <a href="https://rickycheung.dev/images/Wing_Nin_Cheung_Resume.pdf">LINK TO MY RESUME</a></li>
+- Hit me up with new opportunities: <a href="https://rickycheung.dev/images/Wing_Nin_Cheung_Resume.pdf">LINK TO MY RESUME</a></li>
 - Call me: <b>He/Him/His</b> or <b>TeamWorker</b>😊 
+- Check out my most recent project: [EmoTunes](https://github.com/WingNinCheung/EmoTunes)
 
+<br>
+</br>
 
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/wingnincheung/" target="popup" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:rickycheung.dev@gmail.com" target="popup">
-  <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 <a href="https://rickycheung.dev/">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+</a>
+<a href="mailto:rickycheung.dev@gmail.com" target="popup">
+  <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br>
 </br>
 
 
-
+<!-- 
 ## Languages and Tools:
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" width="300" height="200"></img>
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -57,9 +60,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-<!-- 
 ## My Github Stats:
-
 
  <p align="left" >
  
